@@ -1,0 +1,53 @@
+body{
+  background-color: rgba(255, 227, 227, 0.822);
+  height: 100vh;
+}
+.firstpara h1{
+  position: absolute;
+  top: 15%;
+  right: 40%;
+  font-weight: bolder;
+  font-size: 50px;
+}
+.firstpara p{
+  position: absolute;
+  top: 38% ;
+  left: 14%;
+  text-align: center;
+  font-size: larger;
+}
+
+.button{
+  /* position: absolute; */
+  padding-left: 35%;
+  padding-right: 35%;
+  padding-top: 25%;
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  
+}
+.btn {
+  width: 30vh;
+}
+.btn1{
+  position: absolute;
+  width: 30vh;
+  left: 25%;
+  border: none;
+  height: 38px;
+  color: white;
+  background: #0d6efd;
+  border-radius: 6px;
+  
+}
+
+.container h3{
+  position: absolute;
+  top: 20%;
+}
+.Form{
+  position: absolute;
+  width: 60%;
+  padding-top:12%;
+}
